@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/MO-ReactApp/static/css/main.e9a835bf.css",
+    "main.js": "/MO-ReactApp/static/js/main.72ce30c9.js",
+    "static/js/415.4d6acbeb.chunk.js": "/MO-ReactApp/static/js/415.4d6acbeb.chunk.js",
+    "static/js/787.1ed0c42c.chunk.js": "/MO-ReactApp/static/js/787.1ed0c42c.chunk.js",
+    "static/media/moazea.png": "/MO-ReactApp/static/media/moazea.2e89c82566fe76d8f1ff.png",
+    "static/media/shop.png": "/MO-ReactApp/static/media/shop.f2faaa23a25cf282517a.png",
+    "static/media/store.png": "/MO-ReactApp/static/media/store.9fd5053c17bba3f571dc.png",
+    "static/media/dalily.png": "/MO-ReactApp/static/media/dalily.c69910657fb0876d8fc1.png",
+    "static/media/nn.jpg": "/MO-ReactApp/static/media/nn.1cf232d13e8bb7b9f12e.jpg",
+    "static/media/home-main.svg": "/MO-ReactApp/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
+    "static/media/about.png": "/MO-ReactApp/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/cv.pdf": "/MO-ReactApp/static/media/cv.61c36ed82488beca2a63.pdf",
+    "static/media/to do.png": "/MO-ReactApp/static/media/to do.d29b4268a16e5c948faf.png",
+    "static/media/molog.jpg": "/MO-ReactApp/static/media/molog.7cdeb10135774a779657.jpg",
+    "static/media/home-bg.jpg": "/MO-ReactApp/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/pre.svg": "/MO-ReactApp/static/media/pre.d4812f51c8c80976eaab.svg",
+    "index.html": "/MO-ReactApp/index.html",
+    "main.e9a835bf.css.map": "/MO-ReactApp/static/css/main.e9a835bf.css.map",
+    "main.72ce30c9.js.map": "/MO-ReactApp/static/js/main.72ce30c9.js.map",
+    "415.4d6acbeb.chunk.js.map": "/MO-ReactApp/static/js/415.4d6acbeb.chunk.js.map",
+    "787.1ed0c42c.chunk.js.map": "/MO-ReactApp/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e9a835bf.css",
+    "static/js/main.72ce30c9.js"
+  ]
+}
